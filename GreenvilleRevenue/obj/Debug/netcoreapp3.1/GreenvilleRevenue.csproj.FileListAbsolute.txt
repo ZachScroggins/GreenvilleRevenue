@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp3.1\GreenvilleRevenue.exe
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp3.1\GreenvilleRevenue.deps.json
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp3.1\GreenvilleRevenue.runtimeconfig.json
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp3.1\GreenvilleRevenue.runtimeconfig.dev.json
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp3.1\GreenvilleRevenue.dll
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp3.1\GreenvilleRevenue.pdb
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp3.1\GreenvilleRevenue.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp3.1\GreenvilleRevenue.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp3.1\GreenvilleRevenue.AssemblyInfo.cs
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp3.1\GreenvilleRevenue.dll
+C:\Users\scrog\Documents\Programs\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp3.1\GreenvilleRevenue.pdb
