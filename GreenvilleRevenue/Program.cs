@@ -244,7 +244,6 @@ namespace GreenvilleRevenue
                 }
                 if (x < contestantsThisYear)
                 {
-                    //WriteLine(contestants[x].ToString());
                     if (tempCode2 == 'S')
                         numSing++;
                     else if (tempCode2 == 'D')
@@ -290,7 +289,6 @@ namespace GreenvilleRevenue
                         Write("Enter a valid code (S, D, M, O, or Z)>> ");
                         tempInput = ReadLine();
                         char.TryParse(tempInput, out input);
-                        //TalentCode2 = input;
                     }
                     TalentCode2 = input;
 
