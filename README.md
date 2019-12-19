@@ -24,7 +24,7 @@ Greenville County hosts the Greenville Idol competition (talent contest) each su
    * Based on the age entered for each contestant, create an object of the correct type (child, teen, or adult), and store it in an array of Contestant objects.
    * After data entry is complete, display statistics about the contest including: the number of contestants in last year's and this year's competition, the number of contestants in each category, and the total expected revenue for this year's competition (sum of entry fees for the contestants).
    * After statistics have been displayed, continuously prompt the user for talent codes, and display all the data for all the contestants in each category. Display an appropriate message if the entered code is invalid. Give the user the option to enter a sentinel code that terminates the program.
-## Programming Skills Utilized
+## Programming Fundamentals Utilized
 * Object-oriented design
 * Classes and subclasses
 * Objects
@@ -36,5 +36,5 @@ Greenville County hosts the Greenville Idol competition (talent contest) each su
    * Parsing
 * Methods
 * Loops
-* Decision making
+* Conditionals
 * Arrays
